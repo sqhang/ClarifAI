@@ -2,6 +2,9 @@
 
 This repository contains source files for Comp 646 final project, ClarifAI.
 The goal of this project is to evaluate the performance of GPT-3.5 and GPT-4 on the SQuAD1.1 dataset and compare GPT-3.5 with state-of-the-art models like RoBERTa and DistilBERT on SQuAD and SpokenSQuAD datasets using audios of varying quality.
+
+Note: A demo of ClarifAI will be included in the repository at a later date.
+
 ## Repository Contents
 
 1. "audio_transcription.ipynb": This Jupyter Notebook contains code for speech-to-text conversion using the Whisper ASR model, generating datasets with audios of different quality levels, and creating audios with classroom noises. It also includes code for evaluating WER scores on these audios.
